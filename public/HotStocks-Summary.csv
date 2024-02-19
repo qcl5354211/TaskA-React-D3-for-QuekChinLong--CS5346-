@@ -1,0 +1,101 @@
+Stock,Sector,ValueOwned
+MSFT,Technology,830.53
+AMZN,Consumer Discretionary,405.09
+GOOGL,Technology,283.93
+AAPL,Technology,913.74
+META,Technology,253.31
+GOOG,Technology,236.79
+NVDA,Technology,368.15
+V,Consumer Discretionary,180.03
+BRKB,Finance,171.53
+JPM,Finance,140.07
+JNJ,Health Care,128.23
+MA,Consumer Discretionary,137.28
+UNH,Health Care,185.84
+XOM,Energy,142.43
+MRK,Health Care,93.82
+PG,Consumer Discretionary,108.76
+HD,Consumer Discretionary,96.64
+SPY,Other,60.57
+CVX,Energy,118.23
+ABBV,Health Care,84.05
+ADBE,Technology,97.51
+PEP,Consumer Staples,80.16
+LLY,Health Care,165.7
+MCD,Consumer Discretionary,60.05
+CSCO,Telecommunications,76.14
+DIS,Consumer Discretionary,49
+PFE,Health Care,61.4
+BAC,Finance,94.02
+COST,Consumer Discretionary,79.38
+CRM,Technology,80.61
+WMT,Consumer Discretionary,75.84
+TSLA,Consumer Discretionary,194.5
+AVGO,Technology,116.93
+INTC,Technology,49.01
+BMY,Health Care,43.99
+NFLX,Consumer Discretionary,68.36
+AMGN,Health Care,57.45
+CMCSA,Telecommunications,72.93
+AMD,Technology,61.06
+QCOM,Technology,47.77
+CVS,Consumer Staples,32.78
+UBER,Technology,30.04
+CAT,Industrials,49.43
+TSM,Technology,31.17
+PYPL,Consumer Discretionary,24.43
+BA,Industrials,35.44
+PANW,Technology,27.39
+QQQ,ETF,14.07
+IVV,Other,71.07
+LIN,Industrials,68.67
+BKNG,Consumer Discretionary,50.5
+BABA,Consumer Discretionary,15.9
+VOO,Finance,33.56
+GLD,Other,4.73
+IWM,Finance,13.31
+MU,Technology,32.65
+F,Consumer Discretionary,15.46
+APD,Industrials,20.78
+VRTX,Technology,39.71
+XLE,Other,3.6
+SHOP,Technology,14.93
+EFA,Finance,12.52
+ASML,Technology,20.67
+CHTR,Telecommunications,28.15
+CMG,Consumer Discretionary,24.56
+SNOW,Technology,17.26
+XLK,Other,4.82
+EL,Consumer Discretionary,15.63
+BRKA,Other,19.64
+XLV,Other,3.29
+EEM,Finance,3.51
+XLF,Finance,2.26
+RSP,ETF,4.08
+PLTR,Technology,9.08
+SGEN,Health Care,26.75
+XLU,Other,1.94
+SPOT,Consumer Discretionary,9.97
+XLP,Other,2.73
+SMCI,Technology,6.56
+PDD,Consumer Discretionary,18.53
+TLT,ETF,4.17
+LQD,Other,6.11
+XLI,Other,3.23
+XLY,Other,1.81
+XBI,Finance,1.92
+DIA,Other,1.12
+HYG,Other,6
+COIN,Finance,4.93
+SNAP,Technology,3.09
+IEF,Technology,3.8
+KRE,Other,0.93897
+SMH,Other,1.96
+SRC,Real Estate,2.29
+ARM,Technology,2.71
+MRTX,Health Care,2.38
+FXI,Finance,1.43
+MARA,Technology,0.44604
+TQQQ,ETF,0.09865
+SQQQ,ETF,0.05327
+SOXL,Finance,0.07221
