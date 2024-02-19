@@ -13,19 +13,19 @@ const App = () => {
   
   <div id="parent">
 
-    <div style={{id:"Page-title", textAlign: "center", color: "#000000", fontSize: "2vw", fontFamily: "Rubik Doodle Shadow"}}>
+    <div style={{id:"Page-title", textAlign: "center", color: "#000000", fontSize: "24px", fontFamily: "Rubik Doodle Shadow"}}>
       <u><h1>CS5346-Information Visualisation</h1></u>
     </div>
 
 
-    <div style={{id:"Page-heading", textAlign: "center", fontSize: "2vw", fontWeight: "bold", textDecoration: "underline", fontFamily: "Roboto", paddingLeft: "0px" }}>
+    <div style={{id:"Page-heading", textAlign: "center", fontSize: "20px", fontWeight: "bold", textDecoration: "underline", fontFamily: "Roboto", paddingLeft: "0px" }}>
          <h2>Submission for Quek Chin Long</h2> 
         
     </div>        
         
         
        
-    <div style={{id:"chart2title", textAlign: "center", fontSize: "2vw", fontWeight: "bold", textDecoration: "underline", fontFamily: "Roboto", paddingLeft: "0px" }}>    
+    <div style={{id:"chart2title", textAlign: "center", fontSize: "20px", fontWeight: "bold", textDecoration: "underline", fontFamily: "Roboto", paddingLeft: "0px" }}>    
         <br/>1. Top 30 stocks owned by Hedge funds in TreeMap view (as of end Sept 23) <br/>     
         <br/>
     </div>
@@ -39,7 +39,7 @@ const App = () => {
 
 
 
-    <div style={{id:"chart2title", textAlign: "center", fontSize: "2vw", fontWeight: "bold", textDecoration: "underline", fontFamily: "Roboto", paddingLeft: "0px" }}>
+    <div style={{id:"chart2title", textAlign: "center", fontSize: "20px", fontWeight: "bold", textDecoration: "underline", fontFamily: "Roboto", paddingLeft: "0px" }}>
         <br/>2. Bar Chart showing the stocks, total value ($ bn) and sector type: <br/>  
         <br/>         
     </div>
